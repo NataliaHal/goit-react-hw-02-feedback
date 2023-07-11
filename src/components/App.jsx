@@ -30,8 +30,6 @@ class App extends Component {
 
   render() {
     const { good, neutral, bad } = this.state;
-    // const total = good + neutral + bad;
-    // const positiveFeedback = Math.round((good / total) * 100);
     const options = Object.keys(this.state);
 
     return (

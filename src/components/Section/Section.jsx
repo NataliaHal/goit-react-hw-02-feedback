@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import * as S from './Section.styled.jsx';
+import * as S from './Section.styled';
 
 export const Section = ({ title, children }) => (
   <S.Container>

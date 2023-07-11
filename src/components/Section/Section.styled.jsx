@@ -9,7 +9,7 @@ export const Container = styled.div`
 
 export const SectionTitle = styled.h2`
   text-transform: uppercase;
-  font-size: 24px;
-  color: hsl(200deg 48% 86%);
+  font-size: 28px;
+  color: #f1e4f9;
   text-shadow: 2px 2px 5px black;
 `;
